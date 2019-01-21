@@ -22,6 +22,8 @@ text_analysis.ipynb
 
 LDA算法还在学习中
 
+LDA.ipynb
+
 ## ML_text_analyse
 
 机器学习方法进行文本分析
@@ -31,3 +33,6 @@ ML_text_analyse.ipynb
 ## DL_text_analyse
 
 深度学习方法进行文本分析
+
+DL_text_analyse.ipynb
+
