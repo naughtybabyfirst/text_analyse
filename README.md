@@ -28,7 +28,7 @@ LDA.ipynb
 
 使用gensim库word2vec进行中文文本的词向量生成
 
-![image] (https://github.com/naughtybabyfirst/text_analyse/blob/master/image/word2vec%E7%BB%93%E6%9E%9C.png)
+![image](https://github.com/naughtybabyfirst/text_analyse/blob/master/image/word2vec%E7%BB%93%E6%9E%9C.png)
 
 gensim_word2vec.py
 
