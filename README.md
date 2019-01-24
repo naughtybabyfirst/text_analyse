@@ -10,6 +10,8 @@
 
 根据词频绘制的词云
 
+![image](https://github.com/naughtybabyfirst/text_analyse/blob/master/image/1548320747(1).jpg)
+
 text_word_cloud.ipynb
 
 ## text_analysis
