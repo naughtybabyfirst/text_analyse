@@ -80,4 +80,5 @@ end = time.time()
 longtime = end - start
 print('time:'+str(longtime))
 
-
+# 模型保存
+model.save(r'E:\Data_sets\text_ana\model_4_category.model')
