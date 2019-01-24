@@ -3,6 +3,7 @@
 * text_word_cloud
 * text_analysis
 * LDA
+* gensim库word2vec
 * ML_text_analyse
 * DL_text_analyse
 
