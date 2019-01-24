@@ -24,6 +24,10 @@ LDA算法还在学习中
 
 LDA.ipynb
 
+## gensim库word2vec
+
+gensim_word2vec.py
+
 ## ML_text_analyse
 
 机器学习方法进行文本分析
