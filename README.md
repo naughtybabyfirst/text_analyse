@@ -26,6 +26,8 @@ LDA.ipynb
 
 ## gensim库word2vec
 
+使用gensim库word2vec进行中文文本的词向量生成
+
 gensim_word2vec.py
 
 ## ML_text_analyse
