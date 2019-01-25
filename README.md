@@ -35,6 +35,10 @@ LDA.ipynb
 
 gensim_word2vec.py
 
+词向量
+
+word_2_vec.ipynb
+
 ## ML_text_analyse
 
 机器学习方法进行文本分析
