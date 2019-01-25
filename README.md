@@ -49,3 +49,8 @@ CNN、lstm
 
 DL_text_analyse.ipynb
 
+
+keras用cnn一维卷积训练模型
+
+keras_cnn_.ipynb
+
